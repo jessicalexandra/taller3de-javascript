@@ -1,0 +1,3 @@
+ function temperatura(grado) {
+     
+ }
